@@ -16,8 +16,6 @@ library(stats) #  statistical calculations and random number generation
 library(tidyr) # contains tools for changing the shape and hierarchy of dataset
 
 
-# Set working directory
-setwd("//teamwork.org.aalto.fi/T213/T21301/T20507/Remotesensing/PEATSPEC/Conferences/EGU22_Workshop_OPTRAM_IB")
 
 
 # Sentinel-2 data covering peatland Mannikjarve in Estonia were downloaded from 
